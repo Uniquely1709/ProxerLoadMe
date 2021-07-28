@@ -1,0 +1,12 @@
+[LOGIN]
+
+USER = username
+PASS = password
+
+[SETTINGS]
+
+PATH = path
+STREAM_LANG = engsub
+BASEURL = https://proxer.me
+MAXRETRY = 5
+SOLVERKEY = xxxxxxxxxxxxxxxxxxxx
